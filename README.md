@@ -62,5 +62,10 @@ This project strengthened my understanding of:
 
 ## 👩‍💻 Author
 
-**Meghana Reddy**
+**C.Meghana Reddy**
+UI UX Intern
+## GitHub: 
+https://github.com/cmeghanareddy04
+## LinkedIn:
+https://linkedin.com/in/Meghanaachegireddy
 
