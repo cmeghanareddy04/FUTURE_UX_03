@@ -45,6 +45,8 @@ https://www.figma.com/design/oiQvve4Ltrei5Z45NoYeLj/cmr?node-id=139-2&t=V5zvBq25
 https://www.figma.com/proto/oiQvve4Ltrei5Z45NoYeLj/cmr?node-id=139-2&t=V5zvBq25N1F7epko-1
 ## GitHub Repository:
 cmeghanareddy04/FUTURE_UX_03
+## LinkedIN :
+https://linkedin.com/in/Meghanaachegireddy
 
 ## Learning Outcomes
 
