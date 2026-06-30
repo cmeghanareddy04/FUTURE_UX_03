@@ -65,7 +65,7 @@ This project strengthened my understanding of:
 **C.Meghana Reddy**
 UI UX Intern
 ## GitHub: 
-https://github.com/cmeghanareddy04
+ cmeghanareddy04/FUTURE_UX_03
 ## LinkedIn:
 https://linkedin.com/in/Meghanaachegireddy
 
